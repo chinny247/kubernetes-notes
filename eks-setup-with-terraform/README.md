@@ -17,7 +17,7 @@
    + Administrator Access
 + Attach IAM Role to EC2 Instance.
 
-On the commandline: to pass a region, do aws configure, and add only the region (don't pass a value for the Access Key and Secret Access Key and Default Output Format)
++ My Note: On the commandline: to pass a region, do aws configure, and add only the region (don't pass a value for the Access Key and Secret Access Key and Default Output Format)
 
 ### Install Terraform
 ```sh
