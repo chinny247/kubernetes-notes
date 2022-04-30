@@ -18,7 +18,9 @@
 + Attach IAM Role to EC2 Instance.
 
 + My Note: On the commandline: to pass a region, do aws configure, and add only the region (don't pass a value for the Access Key and Secret Access Key and Default Output Format)
-
+# Check 1
+## Check 2
+### Check 3
 ### Install Terraform
 ```sh
 sudo adduser eksadmin
